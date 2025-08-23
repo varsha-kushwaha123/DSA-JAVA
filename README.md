@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -20,8 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

@@ -11,8 +11,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

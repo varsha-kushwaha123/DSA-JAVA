@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0050-powx-n) |
+| [0319-bulb-switcher](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0319-bulb-switcher) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0242-valid-anagram) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

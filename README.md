@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

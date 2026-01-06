@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0319-bulb-switcher) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
 ## String
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Brainteaser
 |  |

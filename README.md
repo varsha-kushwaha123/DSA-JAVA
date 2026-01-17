@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
 ## String
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |

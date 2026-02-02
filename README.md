@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0141-linked-list-cycle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0125-valid-palindrome) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |

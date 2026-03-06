@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |

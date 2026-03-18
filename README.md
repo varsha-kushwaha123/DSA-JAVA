@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 ## Simulation

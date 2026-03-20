@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0397-integer-replacement) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

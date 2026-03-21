@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0338-counting-bits) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0134-gas-station) |
 | [0397-integer-replacement](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0397-integer-replacement) |

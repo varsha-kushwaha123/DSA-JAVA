@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 ## Simulation

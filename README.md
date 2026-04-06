@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1323-maximum-69-number) |
 ## Simulation
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
 ## Breadth-First Search

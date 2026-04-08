@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |

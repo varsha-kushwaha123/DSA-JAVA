@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
+| [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
+| [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
+| [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |

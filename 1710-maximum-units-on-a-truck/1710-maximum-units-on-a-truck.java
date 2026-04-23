@@ -5,12 +5,12 @@ class Solution {
         int count=0;
         int maxunit=0;
         for(int i=n;i>=0;i--){
-            truckSize=truckSize-boxTypes[i][0];
-            if(truckSize>=0){
-                maxunit+=boxTypes[i][0]*boxTypes[i][1];
-            }
-            else{
-                maxunit+=(truckSize+boxTypes[i][0])*boxTypes[i][1];
+
+            int take=Math.min(truckSize,boxTypes[i][0]);
+            maxunit+=take*boxTypes[i][1];
+            truckSize-=take;
+
+            if(truckSize==0){
                 break;
             }
 

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0670-maximum-swap) |
+| [0738-monotone-increasing-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0738-monotone-increasing-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |

@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1642-furthest-building-you-can-reach](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1029-two-city-scheduling) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Brainteaser
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1029-two-city-scheduling) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1323-maximum-69-number) |
 | [1642-furthest-building-you-can-reach](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |

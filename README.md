@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1642-furthest-building-you-can-reach](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |

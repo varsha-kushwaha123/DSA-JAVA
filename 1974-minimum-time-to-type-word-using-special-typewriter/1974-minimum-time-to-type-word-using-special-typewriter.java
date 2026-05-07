@@ -13,7 +13,6 @@ class Solution {
 
         }
         for(int i=1;i<word.length();i++){
-            travel=0;
             int cw=Math.abs( word.charAt(i)-word.charAt(i-1));
             int acw= 26-cw;
             travel=Math.min(cw,acw);

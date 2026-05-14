@@ -7,21 +7,23 @@ class Solution {
             arr[i][1]=profit[i];
         }
         Arrays.sort(arr,(a,b) -> a[0]-b[0]);
+        Arrays.sort(worker);
         int m=worker.length;
         int maxprofit=0;
+        int best=0;
+        int i=0;
 
         for(int j=0;j<m;j++){
-            int best=0;
-            for(int i=0;i<n;i++){
-                if(arr[i][0]<=worker[j]){
+        
+            while(i<n && arr[i][0]<=worker[j]){
+                
                    best=Math.max(best,arr[i][1]);
-
-                }
-                else{
-                    break;
-                }
+                   i++;
             }
-            maxprofit +=best;
+            maxprofit += best;      
+
+                
+                
         }
         return maxprofit;
 

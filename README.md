@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
+| [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
+| [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |

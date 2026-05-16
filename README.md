@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
+| [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
 ## Brainteaser
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
 ## Simulation
 |  |
 | ------- |

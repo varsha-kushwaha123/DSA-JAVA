@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1323-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-furthest-building-you-can-reach](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-furthest-building-you-can-reach](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -536,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->

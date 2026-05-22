@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2027-minimum-moves-to-convert-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Array
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2027-minimum-moves-to-convert-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |

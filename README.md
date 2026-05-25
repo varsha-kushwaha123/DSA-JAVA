@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 ## Backtracking
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |

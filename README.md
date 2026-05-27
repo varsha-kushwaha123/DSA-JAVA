@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |

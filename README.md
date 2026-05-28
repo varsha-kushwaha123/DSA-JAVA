@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3908-valid-digit-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3908-valid-digit-number) |
 ## Hash Table
 |  |
 | ------- |

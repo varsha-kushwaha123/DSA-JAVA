@@ -1,23 +1,22 @@
 class Solution {
     public boolean validDigit(int n, int x) {
-        String s=String.valueOf(n);
-        int []arr=new int[s.length()];
-        Boolean present=false;
-        for(int i=0;i<s.length();i++){
-            arr[i]=s.charAt(i)-'0';
+      Boolean present=false;
+      int z=n;
+      while(z>0){
+        int rem=z%10;
+        if(rem==x){
+            present=true;
+            break;
         }
-        if(arr[0]==x){
-            return false;
-        }
-        else{
-            for(int i=1;i<arr.length;i++){
-                if(arr[i]==x){
-                    present=true;
-                    break;
-                }
-
-            }
-        }
-        return present;
+        z=z/10;
+      }
+      int k=n;
+      while(k>=10){
+        k=k/10;
+      }
+      if(k==x) {
+        present=false;
+      }
+      return present; 
     }
 }

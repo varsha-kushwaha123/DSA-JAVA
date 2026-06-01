@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Matrix
 |  |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Prefix Sum
 |  |
 | ------- |

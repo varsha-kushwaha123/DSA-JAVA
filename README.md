@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0771-jewels-and-stones) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |

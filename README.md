@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3908-valid-digit-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3908-valid-digit-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |

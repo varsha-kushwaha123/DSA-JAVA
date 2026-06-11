@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3921-score-validator](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3921-score-validator) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3809-best-reachable-tower](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3809-best-reachable-tower) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3921-score-validator](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3921-score-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3921-score-validator](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3921-score-validator) |
 ## Stack
 |  |
 | ------- |

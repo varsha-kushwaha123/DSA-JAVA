@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |

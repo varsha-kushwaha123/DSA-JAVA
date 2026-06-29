@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3765-complete-prime-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3765-complete-prime-number) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |

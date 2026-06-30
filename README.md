@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3921-score-validator](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3921-score-validator) |
 ## Array
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |

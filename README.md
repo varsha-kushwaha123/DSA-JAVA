@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3731-find-missing-elements) |
+| [3788-maximum-score-of-a-split](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3788-maximum-score-of-a-split) |
 | [3809-best-reachable-tower](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3809-best-reachable-tower) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [3788-maximum-score-of-a-split](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3788-maximum-score-of-a-split) |
 ## Game Theory
 |  |
 | ------- |

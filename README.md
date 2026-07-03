@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3765-complete-prime-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3765-complete-prime-number) |
 | [3908-valid-digit-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3908-valid-digit-number) |
 ## Hash Table
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3921-score-validator](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3921-score-validator) |
 ## Stack
 |  |

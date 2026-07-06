@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2404-most-frequent-even-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2404-most-frequent-even-element) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2706-buy-two-chocolates) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation

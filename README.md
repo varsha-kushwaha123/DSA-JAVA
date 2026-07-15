@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
+| [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1090-largest-values-from-labels](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1090-largest-values-from-labels) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
+| [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0945-minimum-increment-to-make-array-unique) |

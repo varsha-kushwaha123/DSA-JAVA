@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0948-bag-of-tokens) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0948-bag-of-tokens) |
 | [1894-merge-strings-alternately](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |

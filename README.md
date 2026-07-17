@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0697-degree-of-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |

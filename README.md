@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0342-power-of-four) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0258-add-digits) |
 | [3765-complete-prime-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3765-complete-prime-number) |
 ## Merge Sort
 |  |

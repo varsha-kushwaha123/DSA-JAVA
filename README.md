@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3765-complete-prime-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3765-complete-prime-number) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1952-three-divisors) |
 | [3765-complete-prime-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3765-complete-prime-number) |
 ## Merge Sort
 |  |

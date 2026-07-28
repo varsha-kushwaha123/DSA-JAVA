@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0575-distribute-candies) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3726-remove-zeros-in-decimal-representation) |

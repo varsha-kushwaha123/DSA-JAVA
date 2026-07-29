@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0204-count-primes) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0338-counting-bits) |

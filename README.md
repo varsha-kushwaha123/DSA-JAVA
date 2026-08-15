@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2485-find-the-pivot-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2485-find-the-pivot-integer) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2591-distribute-money-to-maximum-children](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2591-distribute-money-to-maximum-children) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [2485-find-the-pivot-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2485-find-the-pivot-integer) |
 | [3788-maximum-score-of-a-split](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3788-maximum-score-of-a-split) |
 ## Game Theory
 |  |

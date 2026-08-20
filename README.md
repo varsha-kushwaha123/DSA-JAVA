@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0697-degree-of-an-array) |
+| [0739-daily-temperatures](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0748-shortest-completing-word) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
@@ -673,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0409-longest-palindrome) |
+| [0482-license-key-formatting](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |

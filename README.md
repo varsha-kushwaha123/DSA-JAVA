@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0520-detect-capital) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -697,4 +699,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

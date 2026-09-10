@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0670-maximum-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |

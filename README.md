@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0202-happy-number) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0338-counting-bits) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0397-integer-replacement) |
 ## Counting Sort
 |  |

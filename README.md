@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3765-complete-prime-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3765-complete-prime-number) |
 | [3908-valid-digit-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3908-valid-digit-number) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3921-score-validator](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3921-score-validator) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Matrix
 |  |
 | ------- |

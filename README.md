@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0636-exclusive-time-of-functions](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0636-exclusive-time-of-functions) |
+| [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
 | ------- |

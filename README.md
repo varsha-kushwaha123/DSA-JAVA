@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-construct-target-array-with-multiple-sums](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
 | ------- |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2485-find-the-pivot-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2485-find-the-pivot-integer) |
 | [3788-maximum-score-of-a-split](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/3788-maximum-score-of-a-split) |

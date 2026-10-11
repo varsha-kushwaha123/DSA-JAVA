@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
+| [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1029-two-city-scheduling) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0826-most-profit-assigning-work](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
+| [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [2498-frog-jump-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2498-frog-jump-ii) |
 ## Two Pointers
 |  |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2485-find-the-pivot-integer](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2485-find-the-pivot-integer) |

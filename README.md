@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0781-rabbits-in-forest) |
 | [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1090-largest-values-from-labels](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1090-largest-values-from-labels) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0922-sort-array-by-parity-ii) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree

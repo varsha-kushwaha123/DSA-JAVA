@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1090-largest-values-from-labels](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2248-intersection-of-multiple-arrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1702-maximum-binary-string-after-change](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1702-maximum-binary-string-after-change) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1894-merge-strings-alternately](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |

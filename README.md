@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1090-largest-values-from-labels](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
+| [0992-subarrays-with-k-different-integers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0992-subarrays-with-k-different-integers](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1090-largest-values-from-labels](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |

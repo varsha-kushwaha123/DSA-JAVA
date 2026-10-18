@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/varsha-kushwaha123/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
